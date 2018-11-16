@@ -6,7 +6,11 @@ namespace WordCounter.Tests
     [TestClass]
     public class WordCounterTest
     {
-        // test methods will go here.
+        [TestMethod]
+        public void 
+        {
+            
+        }
     }
     
 }

@@ -10,13 +10,13 @@ This is a program that will gather an initial word from the user, and a sentence
 ## Specs
 #### Behavior: The program will ask the user to enter an initial word.
 * Example Input: "Dog"
-* Example Output: "Your first word is "dog"."
-#### Behavior: The program then asks the user for a sentence that contains the initial word more than once.
-* Example Input: "Sometimes my dog will play with my friend's dog."
-* Example output: "Press enter to count how many times 'dog' is repeated" 
-#### Behavior: The program will tell user the cost of their pizza
-* Example Input: "Enter"
-* Example output: "'Dog' is used 2 times in your sentence."
+* Example Output: N/A
+#### Behavior: Check to see if word is valid. (must have no punctuation following the word)
+* Example Input: "dog."
+* Example output: "That is not a valid word. Please input again with no punctuation" 
+#### Behavior: Program checks to see how many times the word shows up in sentence.
+* Example Input: "Dog. dog DOG Dog"
+* Example output: Word Counter: 3
 
 
 ## Setup/Installation Requirements
