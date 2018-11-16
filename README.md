@@ -11,12 +11,12 @@ This is a program that will gather an initial word from the user, and a sentence
 #### Behavior: The program will ask the user to enter an initial word.
 * Example Input: "Dog"
 * Example Output: N/A
-#### Behavior: Check to see if word is valid. (must have no punctuation following the word)
-* Example Input: "dog."
-* Example output: "That is not a valid word. Please input again with no punctuation" 
+#### Behavior: The program takes in a string of words
+* Example Input: "dog, dog, dog"
+* Example output: "dog, dog, dog" 
 #### Behavior: Program checks to see how many times the word shows up in sentence.
-* Example Input: "Dog. dog DOG Dog"
-* Example output: Word Counter: 3
+* Example Input: "My dog will play with my friends dog and they're best friends."
+* Example output: Word Counter: 2
 
 
 ## Setup/Installation Requirements
