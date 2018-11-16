@@ -3,13 +3,13 @@ using System.Collections.Generic;
 
 namespace WordCounter.Models
 {
-    public class RepeatWord
+    public class RepeatCounter
     {
        private string _word;
        private string _sentence;
        public int multiples = 0;
 
-       public RepeatWord(string word, string sentence)
+       public RepeatCounter(string word, string sentence)
        {
            _word = word;
            _sentence = sentence;
