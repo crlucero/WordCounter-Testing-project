@@ -10,13 +10,13 @@ This is a program that will gather an initial word from the user, and a sentence
 ## Specs
 #### Behavior: The program will ask the user to enter an initial word.
 * Example Input: "Dog"
-* Example Output: N/A
+* Example Output: Your word is "Dog"
 #### Behavior: The program takes in a string of words
 * Example Input: "dog, dog, dog"
-* Example output: "dog, dog, dog" 
+* Example output: The sentence you have entered is: "dog, dog, dog" 
 #### Behavior: Program checks to see how many times the word shows up in sentence.
-* Example Input: "My dog will play with my friends dog and they're best friends."
-* Example output: Word Counter: 2
+* Example Input: "dog, dog, dog"
+* Example output: Word Counter: 3
 
 
 ## Setup/Installation Requirements
