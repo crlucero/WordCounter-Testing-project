@@ -13,6 +13,7 @@ namespace WordCounter.Models
        {
            _word = word;
            _sentence = sentence;
+           
        }
 
        public void SetWord(string word)
@@ -39,6 +40,7 @@ namespace WordCounter.Models
            {
                return _sentence.Split(' ');
            }
+
 
            public int CountWord ()
            {

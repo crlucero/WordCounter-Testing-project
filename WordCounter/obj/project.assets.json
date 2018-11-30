@@ -7042,11 +7042,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/CristianLucero1/Desktop/WordCounter.Solution/WordCounter/WordCounter.csproj",
+      "projectUniqueName": "/Users/CristianLucero1/Documents/Individual Projects/WordCounter.Solution/WordCounter/WordCounter.csproj",
       "projectName": "WordCounter",
-      "projectPath": "/Users/CristianLucero1/Desktop/WordCounter.Solution/WordCounter/WordCounter.csproj",
+      "projectPath": "/Users/CristianLucero1/Documents/Individual Projects/WordCounter.Solution/WordCounter/WordCounter.csproj",
       "packagesPath": "/Users/CristianLucero1/.nuget/packages/",
-      "outputPath": "/Users/CristianLucero1/Desktop/WordCounter.Solution/WordCounter/obj/",
+      "outputPath": "/Users/CristianLucero1/Documents/Individual Projects/WordCounter.Solution/WordCounter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/CristianLucero1/.nuget/NuGet/NuGet.Config"

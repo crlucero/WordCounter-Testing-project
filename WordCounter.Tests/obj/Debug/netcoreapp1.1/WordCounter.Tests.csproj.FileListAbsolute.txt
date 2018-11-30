@@ -1,5 +1,14 @@
-/Users/CristianLucero1/Desktop/WordCounter.Solution/WordCounter.Tests/bin/Debug/netcoreapp1.1/WordCounter.Tests.deps.json
-/Users/CristianLucero1/Desktop/WordCounter.Solution/WordCounter.Tests/bin/Debug/netcoreapp1.1/WordCounter.Tests.runtimeconfig.json
-/Users/CristianLucero1/Desktop/WordCounter.Solution/WordCounter.Tests/bin/Debug/netcoreapp1.1/WordCounter.Tests.runtimeconfig.dev.json
-/Users/CristianLucero1/Desktop/WordCounter.Solution/WordCounter.Tests/obj/Debug/netcoreapp1.1/WordCounter.Tests.csproj.CoreCompileInputs.cache
-/Users/CristianLucero1/Desktop/WordCounter.Solution/WordCounter.Tests/obj/Debug/netcoreapp1.1/WordCounter.Tests.AssemblyInfo.cs
+/Users/CristianLucero1/Documents/Individual Projects/WordCounter.Solution/WordCounter.Tests/bin/Debug/netcoreapp1.1/WordCounter.Tests.deps.json
+/Users/CristianLucero1/Documents/Individual Projects/WordCounter.Solution/WordCounter.Tests/bin/Debug/netcoreapp1.1/WordCounter.Tests.runtimeconfig.json
+/Users/CristianLucero1/Documents/Individual Projects/WordCounter.Solution/WordCounter.Tests/bin/Debug/netcoreapp1.1/WordCounter.Tests.runtimeconfig.dev.json
+/Users/CristianLucero1/Documents/Individual Projects/WordCounter.Solution/WordCounter.Tests/obj/Debug/netcoreapp1.1/WordCounter.Tests.csproj.CoreCompileInputs.cache
+/Users/CristianLucero1/Documents/Individual Projects/WordCounter.Solution/WordCounter.Tests/obj/Debug/netcoreapp1.1/WordCounter.Tests.AssemblyInfo.cs
+/Users/CristianLucero1/Documents/Individual Projects/WordCounter.Solution/WordCounter.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/Users/CristianLucero1/Documents/Individual Projects/WordCounter.Solution/WordCounter.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/Users/CristianLucero1/Documents/Individual Projects/WordCounter.Solution/WordCounter.Tests/bin/Debug/netcoreapp1.1/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/Users/CristianLucero1/Documents/Individual Projects/WordCounter.Solution/WordCounter.Tests/bin/Debug/netcoreapp1.1/WordCounter.Tests.dll
+/Users/CristianLucero1/Documents/Individual Projects/WordCounter.Solution/WordCounter.Tests/bin/Debug/netcoreapp1.1/WordCounter.Tests.pdb
+/Users/CristianLucero1/Documents/Individual Projects/WordCounter.Solution/WordCounter.Tests/bin/Debug/netcoreapp1.1/WordCounter.dll
+/Users/CristianLucero1/Documents/Individual Projects/WordCounter.Solution/WordCounter.Tests/bin/Debug/netcoreapp1.1/WordCounter.pdb
+/Users/CristianLucero1/Documents/Individual Projects/WordCounter.Solution/WordCounter.Tests/obj/Debug/netcoreapp1.1/WordCounter.Tests.dll
+/Users/CristianLucero1/Documents/Individual Projects/WordCounter.Solution/WordCounter.Tests/obj/Debug/netcoreapp1.1/WordCounter.Tests.pdb

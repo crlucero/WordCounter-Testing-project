@@ -20,11 +20,11 @@ This is a program that will gather an initial word from the user, and a sentence
 
 
 ## Setup/Installation Requirements
-* Clone repository from Github
-* Open in text editor
-* Restore testing packages
-* Compile files
-* Run in console
+* Clone repository $ git clone repo name
+* Switch into the solution directory: $ cd WordCounter.Solution
+* To edit, open in text editor
+* To run program, navigate to WordCounter.cs. Compile and execute with $ mcs WordCounter.cs; mono WordCounter.exe;
+* To run tests, navigate to WordCounter.Tests, and in command line run $ dotnet test
 
 
 

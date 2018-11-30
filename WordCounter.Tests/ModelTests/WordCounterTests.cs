@@ -4,36 +4,26 @@ using WordCounter.Models;
 namespace WordCounter.Tests
 {
     [TestClass]
-    public class WordCounterTest
+    public class WordCounterTests
     {
         [TestMethod]
-        public void RepeatCounter_ReturnsInput()
+        public void RepeatCounter_ReturnsWord()
         {
-            // Arrange
-                string input = "dog";
-                RepeatCounter testCount = new RepeatCounter();
+            RepeatCounter testCount = new RepeatCounter("dog", "sentence");
 
-            // Act
-              testCount.SetSentence(input);
-              string result = testCount.GetSentence();
-
-            // Assert
-              Assert.AreEqual(input, result);
+            Assert.AreEqual("dog", testCount.GetWord());
         }
         [TestMethod]
-        public void RepeatCounter_ReturnSplitString_true()
+        public void RepeatCounter_SplitString_ReturnSplitString()
         {
-            // Arrange
             string inputString = "dog dog dog";
-            string[] newArray = {"dog", "dog", "dog"};
-            RepeatCounter testCount = new RepeatCounter();
+            string[] newArr = {"dog", "dog", "dog"};
+            RepeatCounter testCount = new RepeatCounter("word", "sentence");
 
-            // Act
             testCount.SetSentence(inputString);
             string[] result = testCount.SplitString();
 
-            // Assert
-            CollectionAssert.AreEqual(newArray, result);
+            CollectionAssert.AreEqual(newArr, result);
         }
 
         [TestMethod]
@@ -41,9 +31,9 @@ namespace WordCounter.Tests
         public void RepeatCounter_Multiples_True()
         {
             // Arrange
-            string inputString = "dog dog dog cat horse";
+            string inputString = "My dog does not think he is a dog";
             string inputWord = "dog";
-            RepeatCounter testCount = new RepeatCounter();
+            RepeatCounter testCount = new RepeatCounter("dog", "My dog does not think he is a dog");
 
             //Act 
             testCount.SetSentence(inputString);
@@ -51,7 +41,7 @@ namespace WordCounter.Tests
             int wordMatches = testCount.CountWord();
             
             // Assert
-            Assert.AreEqual(3, wordMatches);
+            Assert.AreEqual(2, wordMatches);
         }
     }
     
